@@ -478,5 +478,8 @@ form {
         width: 100px;
         height: 100px;
     }
+    i{
+        margin-left: 30%;
+    }
   
 }
